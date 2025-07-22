@@ -1,0 +1,3 @@
+Nueva idea para poder hacer el cocoenter.py: utilizar la anchura de hombros para poder ver si la persona se acerca o se aleja, puede servir como validador para poder complementar la detección por barrera.
+
+Pero objetivamente, el sistema de "mapa de calor" de Jorge puede ser la mejor forma de abordarlo, con el único problema de alta exigencia de computo.

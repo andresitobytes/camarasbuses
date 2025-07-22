@@ -1,0 +1,34 @@
+# Carpetas de entornos virtuales
+env/
+.venv/
+venv/
+
+# Archivos Python compilados
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Configuración del sistema operativo / editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Carpeta de videos y resultados
+videos_prueba/
+resultados_pose_video/
+resultados_pose/
+imagenes_prueba/
+output_pago/
+
+# Archivos de video
+*.mp4
+*.mov
+*.avi
+
+# Logs y archivos temporales
+*.log
+*.tmp
+*.bak
